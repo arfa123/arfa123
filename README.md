@@ -1,7 +1,21 @@
-## 👋 Hello, I'm Arfa.
+## 👋 Hello, I'm Arfa
+
 ### I'm a front-end developer with 6.5 years of experience. I enjoy building sites & apps. My focus is React, React Native, and Next.js, along with TypeScript.
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=arfa123&color=fb4362)
+
+---
+
+## 🚀 Notable Open Source Contribution
+
+### 🛠️ Next.js Contributor  
+Contributed to the official [Next.js](https://github.com/vercel/next.js) framework by Vercel.
+
+[![My PRs](https://img.shields.io/badge/My%20PRs-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3Aarfa123)
+
+---
+
+## 💼 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,12 +45,12 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## 🏆 Open Source Contributions
+---
 
-[![Next.js](https://img.shields.io/badge/Contributed%20to-Next.js-blue?logo=next.js)](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3Aarfa123)
-
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arfa123&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
 <!--![Arfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfa123&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfa123&layout=compact)-->
 
