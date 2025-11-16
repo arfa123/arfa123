@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Arfa
 
-### I'm a front-end developer with 6.5 years of experience. I enjoy building sites & apps. My focus is React, React Native, and Next.js, along with TypeScript.
+### I'm a front-end developer with 7 years of experience. I enjoy building sites & apps. My focus is React, React Native, and Next.js, along with TypeScript.
 
 ![](https://komarev.com/ghpvc/?username=arfa123&color=fb4362)
 
