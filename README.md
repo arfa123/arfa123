@@ -11,7 +11,7 @@
 ### 🛠️ Next.js Contributor  
 Contributed to the official [Next.js](https://github.com/vercel/next.js) framework by Vercel.
 
-[![My PRs](https://img.shields.io/badge/My%20PRs-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3Aarfa123)
+[![My PRs](https://img.shields.io/badge/My%20PRs-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3Aarfa123+is%3Aclosed)
 
 ---
 
